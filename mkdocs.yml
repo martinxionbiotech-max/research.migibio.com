@@ -42,29 +42,43 @@ nav:
       - editorial-policy/index.md
   - "Methodology":
       - methodology/index.md
+      - "Study Design": methodology/study-design.md
+      - "Statistical Methods": methodology/statistical-methods.md
   - "FICT Technology":
       - fict-technology/index.md
       - "FICT Technical White Paper": fict-technology/fluorescence-immunochromatography.md
+      - "Fluorophores & Labeling": fict-technology/fluorophores-and-labeling.md
   - "Analytical Performance":
       - analytical-performance/index.md
       - "Validation Methodology": analytical-performance/validation-methodology.md
+      - "Interference Studies": analytical-performance/interference-studies.md
+      - "Precision vs Accuracy": analytical-performance/precision-accuracy-explained.md
   - "Biomarkers":
       - biomarkers/index.md
       - "Biomarker Validation Overview": biomarkers/validation-overview.md
+      - "Acute-Phase Proteins (CRP/SAA)": biomarkers/acute-phase-protein-evidence.md
+      - "SDMA Clinical Evidence": biomarkers/sdma-clinical-evidence.md
   - "Infectious Disease Research":
       - infectious-disease/index.md
       - "Diagnostic Accuracy (CPV/CDV/FPV)": infectious-disease/diagnostic-accuracy.md
+      - "FeLV & FIV Testing Strategy": infectious-disease/felv-fiv-testing-strategy.md
   - "Endocrine Research":
       - endocrine/index.md
       - "Endocrine Assay Validation": endocrine/assay-validation.md
+      - "Progesterone Timing Evidence": endocrine/progesterone-timing-evidence.md
+      - "Cortisol Dynamic Testing": endocrine/cortisol-dynamic-testing.md
   - "Comparative Studies":
       - comparative-studies/index.md
       - "FICT vs ELISA vs PCR": comparative-studies/fict-vs-elisa-vs-pcr.md
+      - "FICT vs Colloidal Gold": comparative-studies/fict-vs-colloidal-gold.md
   - "White Papers":
       - white-papers/index.md
       - "Veterinary POCT: FICT Advantage": white-papers/fict-advantage.md
+      - "Economics of In-Clinic Testing": white-papers/economics-of-in-clinic-testing.md
   - "Technical Reports":
       - technical-reports/index.md
+      - "Lot-to-Lot Consistency": technical-reports/lot-consistency-report.md
+      - "Field Evaluation": technical-reports/field-evaluation-report.md
 
 plugins:
   - search

@@ -16,6 +16,16 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://research.migibio.com/analytical-performance/interference-studies/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/analytical-performance/precision-accuracy-explained/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://research.migibio.com/analytical-performance/validation-methodology/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
@@ -26,12 +36,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://research.migibio.com/biomarkers/acute-phase-protein-evidence/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/biomarkers/sdma-clinical-evidence/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://research.migibio.com/biomarkers/validation-overview/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://research.migibio.com/comparative-studies/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/comparative-studies/fict-vs-colloidal-gold/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -56,12 +81,27 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://research.migibio.com/endocrine/cortisol-dynamic-testing/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/endocrine/progesterone-timing-evidence/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://research.migibio.com/fict-technology/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://research.migibio.com/fict-technology/fluorescence-immunochromatography/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/fict-technology/fluorophores-and-labeling/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -76,7 +116,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://research.migibio.com/infectious-disease/felv-fiv-testing-strategy/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://research.migibio.com/methodology/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/methodology/statistical-methods/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/methodology/study-design/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -86,7 +141,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://research.migibio.com/technical-reports/field-evaluation-report/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/technical-reports/lot-consistency-report/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://research.migibio.com/white-papers/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/white-papers/economics-of-in-clinic-testing/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>

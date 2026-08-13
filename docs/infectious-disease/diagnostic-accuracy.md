@@ -63,7 +63,8 @@ Rapid POCT results change management **within the same visit**:
 
 ## References
 
-1. Forman MA, Marks SL, De Cock HE, et al. Evaluation of serum feline pancreatic lipase immunoreactivity and helical computed tomography versus conventional testing for the diagnosis of feline acute pancreatitis. *J Vet Intern Med.* 2004;18(6):807-815. PMID: [15638263](https://pubmed.ncbi.nlm.nih.gov/15638263/)
-2. Janson CO, Hezzell MJ, Oyama MA, et al. Focused cardiac ultrasound and point-of-care NT-proBNP assay in the emergency room for differentiation of cardiac and noncardiac causes of respiratory distress in cats. *J Vet Emerg Crit Care.* 2020;30(6):679-686. PMID: [32579274](https://pubmed.ncbi.nlm.nih.gov/32579274/)
+1. Walter-Weingärtner J, Bergmann M, et al. Overview on utility of in-house tests for detection of systemic infectious diseases in dogs. *Tierarztl Prax Ausg K Kleintiere Heimtiere.* 2024;52(3):161-169. PMID: [38701805](https://pubmed.ncbi.nlm.nih.gov/38701805/)
+2. Giselbrecht J, Jähne S, et al. Evaluation of a Revised Point-of-Care Test for the Detection of Feline Leukaemia p27 Antigen and Anti-p15E Antibodies in Cats. *Viruses.* 2024;16(4):553. PMID: [38675954](https://pubmed.ncbi.nlm.nih.gov/38675954/)
+3. Laska-Modzelewska A, Pawelczak P, et al. Comparative evaluation of nine lateral flow assays for FIV antibody detection using an in-house ELISA as a reference method. *BMC Vet Res.* 2026. PMID: [41572271](https://pubmed.ncbi.nlm.nih.gov/41572271/)
 
 *For the review and citation policy, see the [Editorial & Review Policy](/editorial-policy/).*
