@@ -61,4 +61,9 @@ Rapid POCT results change management **within the same visit**:
 - **FeLV positive** → vaccination/cohabitation decisions.
 - **FIV positive** → lifestyle counseling.
 
-*For structured per-disease data, see the [Data Hub](https://data.migibio.com/diseases/). For comparison methodology, see [Comparative Studies](/comparative-studies/).*
+## References
+
+1. Forman MA, Marks SL, De Cock HE, et al. Evaluation of serum feline pancreatic lipase immunoreactivity and helical computed tomography versus conventional testing for the diagnosis of feline acute pancreatitis. *J Vet Intern Med.* 2004;18(6):807-815. PMID: [15638263](https://pubmed.ncbi.nlm.nih.gov/15638263/)
+2. Janson CO, Hezzell MJ, Oyama MA, et al. Focused cardiac ultrasound and point-of-care NT-proBNP assay in the emergency room for differentiation of cardiac and noncardiac causes of respiratory distress in cats. *J Vet Emerg Crit Care.* 2020;30(6):679-686. PMID: [32579274](https://pubmed.ncbi.nlm.nih.gov/32579274/)
+
+*For the review and citation policy, see the [Editorial & Review Policy](/editorial-policy/).*

@@ -71,4 +71,10 @@ A single-visit panel combining these biomarkers provides:
 
 This enables a rapid, data-driven triage of sick patients — especially in emergency and geriatric medicine where time-to-decision is critical.
 
-*For structured per-biomarker data cards, see the [Data Hub](https://data.migibio.com/biomarkers/). For method comparison, see [Comparative Studies](/comparative-studies/).*
+## References
+
+1. Nabity MB, Lees GE, Boggess MM, et al. Symmetric dimethylarginine assay validation, stability, and evaluation as a marker for the early detection of chronic kidney disease in dogs. *J Vet Intern Med.* 2015;29(4):1036-1044. PMID: [26079532](https://pubmed.ncbi.nlm.nih.gov/26079532/)
+2. Nakamura M, Takahashi M, Ohno K, et al. C-reactive protein concentration in dogs with various diseases. *J Vet Med Sci.* 2008;70(2):127-131. PMID: [18319571](https://pubmed.ncbi.nlm.nih.gov/18319571/)
+3. Kajikawa T, Furuta A, Onishi T, et al. Changes in concentrations of serum amyloid A protein, alpha 1-acid glycoprotein, haptoglobin, and C-reactive protein in feline sera due to induced inflammation and surgery. *Vet Immunol Immunopathol.* 1999;68(1):91-98. PMID: [10231954](https://pubmed.ncbi.nlm.nih.gov/10231954/)
+
+*For the review and citation policy, see the [Editorial & Review Policy](/editorial-policy/).*
