@@ -50,13 +50,16 @@ nav:
       - "Biomarker Validation Overview": biomarkers/validation-overview.md
   - "Infectious Disease Research":
       - infectious-disease/index.md
+      - "Diagnostic Accuracy (CPV/CDV/FPV)": infectious-disease/diagnostic-accuracy.md
   - "Endocrine Research":
       - endocrine/index.md
+      - "Endocrine Assay Validation": endocrine/assay-validation.md
   - "Comparative Studies":
       - comparative-studies/index.md
       - "FICT vs ELISA vs PCR": comparative-studies/fict-vs-elisa-vs-pcr.md
   - "White Papers":
       - white-papers/index.md
+      - "Veterinary POCT: FICT Advantage": white-papers/fict-advantage.md
   - "Technical Reports":
       - technical-reports/index.md
 

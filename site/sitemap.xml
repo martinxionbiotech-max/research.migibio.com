@@ -41,6 +41,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://research.migibio.com/endocrine/assay-validation/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://research.migibio.com/fict-technology/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
@@ -56,6 +61,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://research.migibio.com/infectious-disease/diagnostic-accuracy/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://research.migibio.com/methodology/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
@@ -67,6 +77,11 @@
     </url>
     <url>
          <loc>https://research.migibio.com/white-papers/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/white-papers/fict-advantage/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
