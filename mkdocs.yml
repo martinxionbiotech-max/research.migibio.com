@@ -44,8 +44,10 @@ nav:
       - "FICT Technical White Paper": fict-technology/fluorescence-immunochromatography.md
   - "Analytical Performance":
       - analytical-performance/index.md
+      - "Validation Methodology": analytical-performance/validation-methodology.md
   - "Biomarkers":
       - biomarkers/index.md
+      - "Biomarker Validation Overview": biomarkers/validation-overview.md
   - "Infectious Disease Research":
       - infectious-disease/index.md
   - "Endocrine Research":
