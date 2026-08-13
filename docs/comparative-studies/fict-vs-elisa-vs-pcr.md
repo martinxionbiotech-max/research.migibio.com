@@ -1,5 +1,6 @@
 ---
 title: "FICT vs ELISA vs PCR: A Method Comparison for Veterinary Diagnostics"
+date: 2026-08-13
 description: "Head-to-head comparison of fluorescence immunochromatography (FICT), ELISA, and PCR for veterinary diagnostics — sensitivity, time-to-result, cost, quantitation, and best-fit clinical scenarios."
 ---
 

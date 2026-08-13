@@ -6,6 +6,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://research.migibio.com/about/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://research.migibio.com/analytical-performance/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
@@ -32,6 +37,11 @@
     </url>
     <url>
          <loc>https://research.migibio.com/comparative-studies/fict-vs-elisa-vs-pcr/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/editorial-policy/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>

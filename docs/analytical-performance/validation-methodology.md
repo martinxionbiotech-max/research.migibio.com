@@ -1,5 +1,6 @@
 ---
 title: "Analytical Performance Validation: LOD, LOQ, CV%, and Linearity"
+date: 2026-08-13
 description: "A methodology guide to analytical validation of veterinary POCT immunoassays — limit of detection (LOD), limit of quantitation (LOQ), precision (CV%), linearity, accuracy, and interference testing."
 ---
 

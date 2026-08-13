@@ -37,6 +37,9 @@ theme:
 
 nav:
   - Home: index.md
+  - "About & Editorial":
+      - about/index.md
+      - editorial-policy/index.md
   - "Methodology":
       - methodology/index.md
   - "FICT Technology":

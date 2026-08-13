@@ -1,5 +1,6 @@
 ---
 title: "Migibio Research Center"
+date: 2026-08-13
 description: "Scientific evidence hub for Migibio (Guangzhou Magic Biotech) — veterinary POCT methodology, analytical validation, comparative studies, and white papers."
 ---
 

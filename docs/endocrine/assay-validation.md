@@ -1,5 +1,6 @@
 ---
 title: "Endocrine Assay Validation: T4, Cortisol, Progesterone, Relaxin"
+date: 2026-08-13
 description: "Validation of Migibio endocrine assays — thyroid (T4/TSH), cortisol, progesterone, and relaxin — covering clinical rationale, reference ranges, and analytical performance."
 ---
 

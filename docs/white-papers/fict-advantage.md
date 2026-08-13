@@ -1,5 +1,6 @@
 ---
 title: "Veterinary POCT: The Fluorescence Immunochromatography Advantage — White Paper"
+date: 2026-08-13
 description: "A technical white paper on why fluorescence immunochromatography (FICT) is the enabling technology for quantitative veterinary point-of-care diagnostics."
 ---
 

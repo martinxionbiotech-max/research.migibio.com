@@ -10,6 +10,11 @@
 
 Migibio Research is the scientific evidence hub for Migibio veterinary POCT diagnostics — peer-reviewed-style methodology papers, analytical validation studies, comparative method evaluations, and technical white papers. It answers *why our technology is trustworthy* with citable, data-backed evidence.
 
+## About & Editorial
+
+- [About the Research Center](https://research.migibio.com/about/) — what we publish, how to cite
+- [Editorial & Review Policy](https://research.migibio.com/editorial-policy/) — authorship, review, citation standards
+
 ## Sections
 
 - [Methodology](https://research.migibio.com/methodology/) — study design, statistics, validation frameworks

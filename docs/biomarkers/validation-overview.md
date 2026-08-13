@@ -1,5 +1,6 @@
 ---
 title: "Biomarker Validation Overview: SDMA, NT-proBNP, CRP, SAA"
+date: 2026-08-13
 description: "Validation summary of the core Migibio veterinary biomarkers — SDMA, NT-proBNP, CRP, and SAA — covering clinical rationale, reference ranges, and analytical performance."
 ---
 

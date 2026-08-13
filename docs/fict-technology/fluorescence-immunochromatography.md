@@ -1,5 +1,6 @@
 ---
 title: "Fluorescence Immunochromatography (FICT): Technical White Paper"
+date: 2026-08-13
 description: "A technical deep-dive into fluorescence immunochromatography (FICT) — detection principle, fluorescence labeling, instrumentation, and how it achieves quantitative pg/ml-level sensitivity in veterinary POCT diagnostics."
 ---
 

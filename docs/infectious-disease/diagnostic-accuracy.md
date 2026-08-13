@@ -1,5 +1,6 @@
 ---
 title: "Infectious Disease Diagnostic Accuracy: CPV, CDV, FPV, FeLV"
+date: 2026-08-13
 description: "Diagnostic accuracy of Migibio infectious-disease assays — canine parvovirus, distemper, feline panleukopenia, and FeLV — sensitivity, specificity, and clinical interpretation."
 ---
 
