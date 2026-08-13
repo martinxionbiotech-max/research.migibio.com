@@ -21,12 +21,22 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://research.migibio.com/comparative-studies/fict-vs-elisa-vs-pcr/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://research.migibio.com/endocrine/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://research.migibio.com/fict-technology/</loc>
+         <lastmod>2026-08-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.com/fict-technology/fluorescence-immunochromatography/</loc>
          <lastmod>2026-08-13</lastmod>
          <changefreq>daily</changefreq>
     </url>

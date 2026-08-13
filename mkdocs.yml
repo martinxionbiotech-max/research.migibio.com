@@ -41,6 +41,7 @@ nav:
       - methodology/index.md
   - "FICT Technology":
       - fict-technology/index.md
+      - "FICT Technical White Paper": fict-technology/fluorescence-immunochromatography.md
   - "Analytical Performance":
       - analytical-performance/index.md
   - "Biomarkers":
@@ -51,6 +52,7 @@ nav:
       - endocrine/index.md
   - "Comparative Studies":
       - comparative-studies/index.md
+      - "FICT vs ELISA vs PCR": comparative-studies/fict-vs-elisa-vs-pcr.md
   - "White Papers":
       - white-papers/index.md
   - "Technical Reports":
