@@ -1,0 +1,35 @@
+# Migibio (Guangzhou Magic Biotech Co., Ltd.) — Migibio Research Center
+
+> **Site:** https://research.migibio.com
+> **Company:** Guangzhou Magic Biotech Co., Ltd. (brand: Migibio)
+> **Founded:** November 2017 · Guangzhou Science City, China
+> **Core Technology:** Fluorescence Immunochromatographic Technology (FICT)
+> **Certifications:** ISO9001, GMP · 30 patents · exported to 30+ countries
+
+## About
+
+Migibio Research is the scientific evidence hub for Migibio veterinary POCT diagnostics — peer-reviewed-style methodology papers, analytical validation studies, comparative method evaluations, and technical white papers. It answers *why our technology is trustworthy* with citable, data-backed evidence.
+
+## Sections
+
+- [Methodology](https://research.migibio.com/methodology/) — study design, statistics, validation frameworks
+- [FICT Technology](https://research.migibio.com/fict-technology/) — principle, instrumentation, quantification
+- [Analytical Performance](https://research.migibio.com/analytical-performance/) — LOD, LOQ, CV%, linearity
+- [Biomarkers](https://research.migibio.com/biomarkers/) — SDMA, NT-proBNP, CRP, SAA
+- [Infectious Disease Research](https://research.migibio.com/infectious-disease/) — diagnostic accuracy
+- [Endocrine Research](https://research.migibio.com/endocrine/) — thyroid, cortisol, progesterone
+- [Comparative Studies](https://research.migibio.com/comparative-studies/) — FICT vs ELISA/PCR
+- [White Papers](https://research.migibio.com/white-papers/) — technical white papers
+- [Technical Reports](https://research.migibio.com/technical-reports/) — validation & field reports
+
+## Related Sites
+
+- [Main Website](https://migibio.com) — products, marketing, blog
+- [Knowledge Base](https://docs.migibio.com) — how-to guides, specs, QC
+- [Data Hub](https://data.migibio.com) — structured reference data
+
+## Contact
+
+- **Tel:** +86-20-82288812
+- **Email:** info@magic-bio.com
+- **Address:** G2-601, Najin Technology Industrial Park, No. 39 Ruihe Road, Huangpu District, Guangzhou, Guangdong, China

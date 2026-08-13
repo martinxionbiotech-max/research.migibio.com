@@ -1,0 +1,85 @@
+site_name: Migibio Research Center
+site_description: >-
+  Scientific evidence hub for Migibio veterinary POCT diagnostics — methodology, analytical validation, comparative studies, and white papers on fluorescence immunochromatography (FICT).
+site_url: https://research.migibio.com/
+site_author: Guangzhou Magic Biotech Co., Ltd.
+copyright: © 2026 Guangzhou Magic Biotech Co., Ltd. (Migibio)
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  icon:
+    logo: material/microscope
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - "Methodology":
+      - methodology/index.md
+  - "FICT Technology":
+      - fict-technology/index.md
+  - "Analytical Performance":
+      - analytical-performance/index.md
+  - "Biomarkers":
+      - biomarkers/index.md
+  - "Infectious Disease Research":
+      - infectious-disease/index.md
+  - "Endocrine Research":
+      - endocrine/index.md
+  - "Comparative Studies":
+      - comparative-studies/index.md
+  - "White Papers":
+      - white-papers/index.md
+  - "Technical Reports":
+      - technical-reports/index.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - footnotes
+  - def_list
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.details
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra:
+  generator: false
