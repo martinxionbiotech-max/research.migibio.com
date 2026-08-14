@@ -41,9 +41,9 @@ The full validation framework is in [Biomarker Validation Overview](/biomarkers/
 
 | Need | Location |
 |------|----------|
-| Reference ranges & cutoffs | [Data Hub — Biomarker Data](https://data.migibio.com/biomarkers/) |
-| Assay-specific LOD/CV% | [Data Hub — Assay Performance](https://data.migibio.com/assay-performance/) |
-| Clinical interpretation guides | [Knowledge Base — Biomarkers & Organ Function](https://docs.migibio.com/domain-06-biomarkers-organ-function/) |
+| Reference ranges & cutoffs | [Data Hub — Biomarker Data](https://data.migibio.net/biomarkers/) |
+| Assay-specific LOD/CV% | [Data Hub — Assay Performance](https://data.migibio.net/assay-performance/) |
+| Clinical interpretation guides | [Knowledge Base — Biomarkers & Organ Function](https://docs.migibio.net/domain-06-biomarkers-organ-function/) |
 
 ## FAQ
 

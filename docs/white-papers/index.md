@@ -38,7 +38,7 @@ Each white paper links back to the primary evidence:
 
 - [Analytical Performance](/analytical-performance/) — the method-validation data.
 - [Comparative Studies](/comparative-studies/) — head-to-head method comparisons.
-- [Data Hub](https://data.migibio.com/) — the structured reference data.
+- [Data Hub](https://data.migibio.net/) — the structured reference data.
 
 ## FAQ
 
@@ -46,4 +46,4 @@ Each white paper links back to the primary evidence:
 
 **Can I cite a white paper in a procurement document?** Yes — cite the page URL and the revision date shown at the bottom of the page.
 
-**How do white papers differ from the knowledge base?** The [knowledge base](https://docs.migibio.com) explains *how to use* products; white papers argue *why* the technology matters, with the evidence chain to support it.
+**How do white papers differ from the knowledge base?** The [knowledge base](https://docs.migibio.net) explains *how to use* products; white papers argue *why* the technology matters, with the evidence chain to support it.

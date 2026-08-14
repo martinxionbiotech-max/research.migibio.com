@@ -79,4 +79,4 @@ FICT's bundled analyzer + assay model amortizes well in high-volume clinics, mak
 
 For **protein biomarkers and infectious-disease antigens**, FICT delivers ELISA-grade quantitative performance with POCT turnaround — the optimal balance for clinical veterinary practice. PCR remains the reference for **nucleic-acid confirmation** and pathogen identification where protein assays are not applicable.
 
-*For underlying technology, see the [FICT Technical White Paper](/fict-technology/fluorescence-immunochromatography/). For assay-level performance numbers, see the [Data Hub](https://data.migibio.com/assay-performance/).*
+*For underlying technology, see the [FICT Technical White Paper](/fict-technology/fluorescence-immunochromatography/). For assay-level performance numbers, see the [Data Hub](https://data.migibio.net/assay-performance/).*

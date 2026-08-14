@@ -44,4 +44,4 @@ The break-even point for an in-clinic analyzer depends on test volume. At typica
 
 **What is the most overlooked cost of send-out?** The repeat visit and delayed treatment — the hidden costs that don't appear on the lab invoice.
 
-*For the technology, see [the FICT white paper](/white-papers/fict-advantage/). For procurement, see the [knowledge base B2B resources](https://docs.migibio.com/domain-10-b2b-resources/).*
+*For the technology, see [the FICT white paper](/white-papers/fict-advantage/). For procurement, see the [knowledge base B2B resources](https://docs.migibio.net/domain-10-b2b-resources/).*

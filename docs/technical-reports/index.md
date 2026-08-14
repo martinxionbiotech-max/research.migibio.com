@@ -8,7 +8,7 @@ description: "Technical reports from Migibio — method validation, lot-to-lot c
 
 This section documents the **technical reports** Migibio produces as part of its quality system — method validation, lot-to-lot consistency, and field evaluation data.
 
-These reports are the raw evidence behind the summary figures published on the [Data Hub](https://data.migibio.com/). They exist so that any distributor, OEM partner, or veterinary professional can trace a published number back to its source.
+These reports are the raw evidence behind the summary figures published on the [Data Hub](https://data.migibio.net/). They exist so that any distributor, OEM partner, or veterinary professional can trace a published number back to its source.
 
 ## 1. Report Types
 
@@ -50,16 +50,16 @@ A report is only useful if it can be traced. Migibio's quality system links:
 Production lot → Lot-to-lot consistency report → COA → published summary data
 ```
 
-This chain is what allows the [Data Hub](https://data.migibio.com/assay-performance/) to publish summary figures with confidence, and what allows a distributor to audit a specific lot.
+This chain is what allows the [Data Hub](https://data.migibio.net/assay-performance/) to publish summary figures with confidence, and what allows a distributor to audit a specific lot.
 
 ## 5. Availability
 
-- **Summary data** — published openly across this research center and the [Data Hub](https://data.migibio.com/assay-performance/).
+- **Summary data** — published openly across this research center and the [Data Hub](https://data.migibio.net/assay-performance/).
 - **Full technical reports** — available to distributors and B2B partners on request; an NDA may apply.
 
 ## FAQ
 
-**Can I request the validation report for a specific assay?** Yes. Distributors and B2B partners can request full reports via info@magic-bio.com. Summary data is published openly.
+**Can I request the validation report for a specific assay?** Yes. Distributors and B2B partners can request full reports via martinwang2024@gmail.com. Summary data is published openly.
 
 **What is a COA, and how does it relate to these reports?** A COA (Certificate of Analysis) is the lot-specific performance summary shipped with each product. Technical reports are the fuller underlying validation documents that the COA summarizes.
 

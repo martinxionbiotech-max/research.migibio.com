@@ -69,4 +69,4 @@ Endocrine testing is a cornerstone of veterinary internal medicine, but hormone 
 - **Relaxin > 1 ng/mL at day 21–28** → pregnancy confirmed.
 - Cortisol should always be interpreted with clinical signs and, where indicated, dynamic testing.
 
-*For structured per-analyte data, see the [Data Hub](https://data.migibio.com/reference-ranges/). For methodology, see [Validation Methodology](/analytical-performance/validation-methodology/).*
+*For structured per-analyte data, see the [Data Hub](https://data.migibio.net/reference-ranges/). For methodology, see [Validation Methodology](/analytical-performance/validation-methodology/).*

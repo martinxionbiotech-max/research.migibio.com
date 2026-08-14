@@ -8,7 +8,7 @@ description: "Scientific evidence hub for Migibio (Guangzhou Magic Biotech) — 
 
 Welcome to the scientific evidence hub of **Migibio** (Guangzhou Magic Biotech Co., Ltd.). This site hosts methodology papers, analytical validation studies, comparative method evaluations, and technical white papers that establish the scientific credibility of Migibio's fluorescence immunochromatographic (FICT) veterinary diagnostics.
 
-While [the knowledge base](https://docs.migibio.com) answers *how to use* our products, this research center answers *why they are trustworthy* — with citable, data-backed evidence.
+While [the knowledge base](https://docs.migibio.net) answers *how to use* our products, this research center answers *why they are trustworthy* — with citable, data-backed evidence.
 
 ## Research Sections
 
@@ -30,4 +30,4 @@ Guangzhou Magic Biotech Co., Ltd. (brand: **Migibio**) is an ISO9001- and GMP-ce
 
 **Core technology:** Fluorescence Immunochromatographic Technology (FICT) — quantitative, instrument-read results with pg/ml-level sensitivity and CV% below 10%.
 
-For product usage guides, see our [knowledge base](https://docs.migibio.com). For structured reference data, see our [data hub](https://data.migibio.com).
+For product usage guides, see our [knowledge base](https://docs.migibio.net). For structured reference data, see our [data hub](https://data.migibio.net).

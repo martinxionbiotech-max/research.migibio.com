@@ -48,7 +48,7 @@ FICT requires a dedicated fluorometer. The Migibio platform provides two:
 | Throughput | 1 test/run | Up to 6 tests/run |
 | Calibration | Pre-loaded standard curve | Cloud standard-curve sync |
 
-See [Analyzer Technology](https://docs.migibio.com/domain-01-analyzer-technology/) in the knowledge base for operation and maintenance.
+See [Analyzer Technology](https://docs.migibio.net/domain-01-analyzer-technology/) in the knowledge base for operation and maintenance.
 
 ## FAQ
 
@@ -58,4 +58,4 @@ See [Analyzer Technology](https://docs.migibio.com/domain-01-analyzer-technology
 
 **Why does FICT need a dedicated instrument?** The fluorophore must be excited at a specific wavelength and its emission measured precisely — a task only a calibrated fluorometer can perform. The analyzer also stores pre-calibrated standard curves, removing inter-operator variability.
 
-*For structured performance data, see the [Data Hub](https://data.migibio.com/assay-performance/).*
+*For structured performance data, see the [Data Hub](https://data.migibio.net/assay-performance/).*

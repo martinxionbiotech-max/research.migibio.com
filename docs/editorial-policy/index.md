@@ -28,7 +28,7 @@ Migibio (Guangzhou Magic Biotech Co., Ltd.) is the manufacturer of the FIA680/FI
 
 ## 5. Correction Policy
 
-To report an error, email **info@magic-bio.com** with the page URL and the specific issue. Material corrections affecting clinical interpretation are prioritized.
+To report an error, email **martinwang2024@gmail.com** with the page URL and the specific issue. Material corrections affecting clinical interpretation are prioritized.
 
 ## 6. Scope
 

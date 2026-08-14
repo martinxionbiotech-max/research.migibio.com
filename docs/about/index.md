@@ -27,6 +27,12 @@ You may cite Research Center pages in academic, clinical, or procurement context
 
 ## Relationship to Other Sites
 
-- [docs.migibio.com](https://docs.migibio.com) — *how to use* the technology
-- [data.migibio.com](https://data.migibio.com) — *the numbers* (structured reference data)
-- [migibio.com](https://migibio.com) — products and company information
+- [docs.migibio.net](https://docs.migibio.net) — *how to use* the technology
+- [data.migibio.net](https://data.migibio.net) — *the numbers* (structured reference data)
+- [migibio.net](https://migibio.net) — products and company information
+
+## Contact
+
+- **Contact:** Martin.Wong
+- **Phone (WhatsApp):** +86 13323237275 — [Chat on WhatsApp](https://wa.me/8613323237275)
+- **Email:** martinwang2024@gmail.com

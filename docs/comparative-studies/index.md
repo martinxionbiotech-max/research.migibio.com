@@ -58,4 +58,4 @@ The full comparison, with correlation data and interpretation, is in [FICT vs EL
 
 **Does FICT replace PCR for infectious disease?** FICT detects antigen/antibody (host response or pathogen protein); PCR detects nucleic acid. For confirmation of an antigen-positive result or for early infection before antigen is detectable, PCR remains the reference.
 
-*For structured benchmarks, see the [Data Hub POCT benchmarks](https://data.migibio.com/poct-benchmarks/).*
+*For structured benchmarks, see the [Data Hub POCT benchmarks](https://data.migibio.net/poct-benchmarks/).*

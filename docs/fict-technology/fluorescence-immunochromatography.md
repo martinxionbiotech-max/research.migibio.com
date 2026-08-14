@@ -108,4 +108,4 @@ FICT is the enabling technology behind quantitative POCT for:
 
 FICT bridges the gap between qualitative lateral-flow strips and laboratory immunoassays: it delivers **ELISA-grade quantitative sensitivity with POCT convenience**. For veterinary clinics, this means same-visit, actionable results — a material improvement over both send-out lab testing and visual-only strips.
 
-*For structured performance data per assay, see the [Data Hub](https://data.migibio.com/assay-performance/). For method comparison studies, see [Comparative Studies](/comparative-studies/).*
+*For structured performance data per assay, see the [Data Hub](https://data.migibio.net/assay-performance/). For method comparison studies, see [Comparative Studies](/comparative-studies/).*

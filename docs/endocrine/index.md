@@ -29,7 +29,7 @@ Two properties make FICT especially valuable for endocrine work:
 
 ## Clinical Context
 
-- **Progesterone ovulation timing** is the flagship POCT endocrine application: serial quantitative progesterone lets breeders time mating or AI precisely. See the [Data Hub reference ranges](https://data.migibio.com/reference-ranges/) for the ovulation threshold.
+- **Progesterone ovulation timing** is the flagship POCT endocrine application: serial quantitative progesterone lets breeders time mating or AI precisely. See the [Data Hub reference ranges](https://data.migibio.net/reference-ranges/) for the ovulation threshold.
 - **Cortisol** supports ACTH-stimulation and low-dose dexamethasone suppression protocols for Cushing's diagnosis and monitoring.
 - **Relaxin** offers early pregnancy confirmation independent of palpation or ultrasound timing.
 

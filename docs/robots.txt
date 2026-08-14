@@ -49,4 +49,4 @@ Disallow: /
 User-agent: MJ12bot
 Disallow: /
 
-Sitemap: https://research.migibio.com/sitemap.xml
+Sitemap: https://research.migibio.net/sitemap.xml

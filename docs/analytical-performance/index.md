@@ -46,7 +46,7 @@ Typical performance across the Migibio FICT assay portfolio:
 | Inter-assay CV% | < 10% | Between-run reproducibility |
 | Correlation vs reference (r) | > 0.95 | Method comparison |
 
-> These are representative platform-level figures. Assay-specific values are published on each biomarker data card in the [Data Hub](https://data.migibio.com/biomarkers/).
+> These are representative platform-level figures. Assay-specific values are published on each biomarker data card in the [Data Hub](https://data.migibio.net/biomarkers/).
 
 ## Why FICT Achieves This
 
@@ -58,6 +58,6 @@ The instrument-read, fluorescence-based signal chain of FICT is the reason these
 
 **Why does LOD differ between assays?** LOD depends on the antibody affinity for the specific analyte and the fluorophore labeling efficiency — both are analyte-specific, so no single LOD applies across the whole portfolio.
 
-**How do I find the LOD for a specific assay?** See the assay's data card in the [Data Hub](https://data.migibio.com/biomarkers/), or the product's COA (Certificate of Analysis).
+**How do I find the LOD for a specific assay?** See the assay's data card in the [Data Hub](https://data.migibio.net/biomarkers/), or the product's COA (Certificate of Analysis).
 
-*For the structured performance data, see the [Data Hub assay performance section](https://data.migibio.com/assay-performance/).*
+*For the structured performance data, see the [Data Hub assay performance section](https://data.migibio.net/assay-performance/).*

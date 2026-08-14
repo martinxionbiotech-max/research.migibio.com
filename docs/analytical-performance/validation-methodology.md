@@ -103,4 +103,4 @@ Every Migibio assay ships with a validation report covering:
 6. Lot-to-lot consistency
 7. Sample stability (serum/plasma/whole blood)
 
-*For per-assay performance numbers, see the [Data Hub](https://data.migibio.com/assay-performance/). For assay-specific validation reports, see [Technical Reports](/technical-reports/).*
+*For per-assay performance numbers, see the [Data Hub](https://data.migibio.net/assay-performance/). For assay-specific validation reports, see [Technical Reports](/technical-reports/).*

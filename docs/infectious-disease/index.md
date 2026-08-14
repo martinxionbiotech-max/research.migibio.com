@@ -52,4 +52,4 @@ Understanding this distinction is critical for correct interpretation. See [Diag
 
 **When should a positive be confirmed by PCR?** For FeLV (persistent vs transient), for unexpected antigen positives in vaccinated animals, and for any result that will drive a euthanasia or major management decision.
 
-*For clinical interpretation in practice, see the [Knowledge Base canine](https://docs.migibio.com/domain-03-canine-infectious-disease/) and [feline](https://docs.migibio.com/domain-04-feline-infectious-disease/) disease sections.*
+*For clinical interpretation in practice, see the [Knowledge Base canine](https://docs.migibio.net/domain-03-canine-infectious-disease/) and [feline](https://docs.migibio.net/domain-04-feline-infectious-disease/) disease sections.*
