@@ -121,6 +121,21 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://research.migibio.net/manufacturing-science/</loc>
+         <lastmod>2026-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.net/manufacturing-science/conjugation-chemistry/</loc>
+         <lastmod>2026-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://research.migibio.net/manufacturing-science/membrane-coating-reproducibility/</loc>
+         <lastmod>2026-08-14</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://research.migibio.net/methodology/</loc>
          <lastmod>2026-08-14</lastmod>
          <changefreq>daily</changefreq>

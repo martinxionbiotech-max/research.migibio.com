@@ -52,6 +52,10 @@ nav:
       - "Validation Methodology": analytical-performance/validation-methodology.md
       - "Interference Studies": analytical-performance/interference-studies.md
       - "Precision vs Accuracy": analytical-performance/precision-accuracy-explained.md
+  - "Manufacturing Science":
+      - manufacturing-science/index.md
+      - "Conjugation Chemistry": manufacturing-science/conjugation-chemistry.md
+      - "Membrane Coating & Reproducibility": manufacturing-science/membrane-coating-reproducibility.md
   - "Biomarkers":
       - biomarkers/index.md
       - "Biomarker Validation Overview": biomarkers/validation-overview.md

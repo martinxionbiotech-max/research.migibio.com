@@ -20,6 +20,7 @@ Migibio Research is the scientific evidence hub for Migibio veterinary POCT diag
 - [Methodology](https://research.migibio.net/methodology/) — study design, statistics, validation frameworks
 - [FICT Technology](https://research.migibio.net/fict-technology/) — principle, instrumentation, quantification
 - [Analytical Performance](https://research.migibio.net/analytical-performance/) — LOD, LOQ, CV%, linearity
+- [Manufacturing Science](https://research.migibio.net/manufacturing-science/) — conjugation chemistry, membrane coating, reproducibility
 - [Biomarkers](https://research.migibio.net/biomarkers/) — SDMA, NT-proBNP, CRP, SAA
 - [Infectious Disease Research](https://research.migibio.net/infectious-disease/) — diagnostic accuracy
 - [Endocrine Research](https://research.migibio.net/endocrine/) — thyroid, cortisol, progesterone
